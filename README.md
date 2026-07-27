@@ -7,3 +7,14 @@ For AMD (AM4/AM5) compatible version, see [here](https://github.com/gamer043/bit
 
 if you want to compile it yourself (dont bother), use ubuntu 16.04.7 lts  
 make sure to change verbosity level to 3, so it shows exact smi count & latency values
+
+# Results table
+| CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
+| ------------- | ------------- | ------------- | -------------|------------- | ------------- |-----------------|--------|
+i7-13700k | MSI Z690 Unify X | ? | 10 | 0 | 10 ms | / |  z
+R7 9850X3D | ASUS X870 Apex | ? | 10 | SMI Count |  z
+i9-13900k | ASUS Strix Z790 D4 | ? | 5 | 75 µs | / | /
+i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | x µs | img | blabla
+Thinkpad T430 | / | latest | 10 | 0 | 120 ns | / | Lowest value result thus far. Consistent.
+i7-3770k | Gigabyte Z77X-D3H | F14-F18 | 10 | 930 | 174–1400 µs | / | The board isn't able to stabilize the results, keeps oscillating. Min & max were noted
+Xeon 2630V4 | Gigabyte X99-UD3 | F22 | 10 | 236 | 147 µs | / | Consistent latency value.
