@@ -11,10 +11,10 @@ Make sure to change verbosity level to 3, so it shows exact smi count & latency 
 # Results table
 | CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
 | ------------- | ------------- | ------------- | -------------|------------- | ------------- |-----------------|--------|
-i7-13700k | MSI Z690 Unify X | ? | 10 | 0 | 10 ms | / |  z
-R7 9850X3D | ASUS X870 Apex | ? | 10 | 897 | 68 µs | / | AMD-specific tool was used, results are here though.
-i9-13900k | ASUS Strix Z790 D4 | ? | 0 | 5 | 75 µs | / | /
-i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | x µs | img | blabla
+i7-13700k | MSI Z690 Unify X | ? | 10 | 0 | 10 ms | [link](https://i.imgur.com/nQtcgLR.png) |  z
+R7 9850X3D | ASUS X870 Apex | ? | 10 | 897 | 68 µs | [link](https://i.imgur.com/CFkMYjt.png) | AMD-specific tool was used, results are here though.
+i9-13900k | ASUS Strix Z790 D4 | ? | 0 | 5 | 75 µs | [link](https://i.imgur.com/IxKUi76.jpeg) | /
+i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | x µs | [img](https://i.imgur.com/jv6DzmY.png) | blabla
 Thinkpad T430 | / | latest | 10 | 0 | 120 ns | / | Lowest value result thus far. Consistent.
-i7-3770k | Gigabyte Z77X-D3H | F14-F18 | 10 | 930 | 174–1400 µs | / | The board isn't able to stabilize the results, keeps oscillating. Min & max were noted
+i7-3770k | Gigabyte Z77X-D3H | F14-F18 | 10 | 930 | 174–1400 µs | [link](https://i.imgur.com/vM1d5zr.jpeg) | The board isn't able to stabilize the results, keeps oscillating. Min & max were noted
 Xeon 2630V4 | Gigabyte X99-UD3 | F22 | 10 | 236 | 147 µs | / | Consistent latency value.
