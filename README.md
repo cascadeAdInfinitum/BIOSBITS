@@ -1,12 +1,13 @@
 # BIOSBITS
-Compiled version of https://github.com/biosbits/bits
-Use rufus dd image mode to make a bootable usb  
-**NOT COMPATIBLE WITH RYZEN CPUS**
+Compiled version of https://github.com/biosbits/bits  
+Use rufus DD image mode to make a bootable USB  
+**NOT COMPATIBLE WITH RYZEN CPUS**  
 
-For AMD (AM4/AM5) compatible version, see [here](https://github.com/gamer043/bits-amd-smi-latency)  
+For AMD (AM4/AM5) compatible version, see [here](https://github.com/gamer043/bits-amd-smi-latency)   
 
-If you want to compile it yourself (dont bother), use ubuntu 16.04.7 lts  
-Make sure to change verbosity level to 3, so it shows exact smi count & latency values
+If you want to compile it yourself (don't bother), use Ubuntu 16.04.7 LTS. Any newer version doesn't have the necessary software versions of the tools required.   
+Make sure to change Verbosity Level to 3 before running the test  
+10–30 runs should suffice to see the variance.  
 
 # SMI Latency Test Results Table
 | CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
