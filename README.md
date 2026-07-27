@@ -12,7 +12,7 @@ make sure to change verbosity level to 3, so it shows exact smi count & latency 
 | CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
 | ------------- | ------------- | ------------- | -------------|------------- | ------------- |-----------------|--------|
 i7-13700k | MSI Z690 Unify X | ? | 10 | 0 | 10 ms | / |  z
-R7 9850X3D | ASUS X870 Apex | ? | 10 | SMI Count |  z
+R7 9850X3D | ASUS X870 Apex | ? | 10 | SMI Count |  AMD-specific tool was used, results are here though.
 i9-13900k | ASUS Strix Z790 D4 | ? | 5 | 75 µs | / | /
 i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | x µs | img | blabla
 Thinkpad T430 | / | latest | 10 | 0 | 120 ns | / | Lowest value result thus far. Consistent.
