@@ -9,6 +9,9 @@ If you want to compile it yourself (don't bother), use Ubuntu 16.04.7 LTS. Any n
 Make sure to change Verbosity Level to 3 before running the test  
 10–30 runs should suffice to see the variance.  
 
+Make sure to choose the correct partition, as the UEFI one can lead to (seemingly?) erroneous results of 10–20ms
+![img](https://i.imgur.com/JEuUy12.jpeg)
+
 # SMI Latency Test Results Table
 | CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
 | ------------- | ------------- | ------------- | -------------|------------- | ------------- |-----------------|--------|
