@@ -16,7 +16,7 @@ Make sure to choose the correct partition, as the UEFI one can lead to (seemingl
 | CPU  | MB | UEFI Version | Total Runs | SMI Count | SMI Latency | Image proof | Notes 
 | ------------- | ------------- | ------------- | -------------|------------- | ------------- |-----------------|--------|
 Thinkpad T430 | / | latest | 10 | 0 | 120 ns | [link](https://i.imgur.com/YXRjag1.jpeg) | Lowest value result thus far. Consistent.
-R5 5600H | Acer AN515-45 | ? | 10 | 0 | 22 µs | [link](https://i.imgur.com/ppzryzV.jpeg) |  z
+R5 5600H | Acer AN515-45 | v1.14 | 10 | 0 | 22 µs | [link](https://i.imgur.com/ppzryzV.jpeg) |  z
 i7-13900k | GB Z790 Tachyon | ? | 10 | 0 | 45 µs | [link](https://i.imgur.com/TTTtY8c.jpeg) |  z
 R7 9850X3D | ASUS X870 Apex | ? | 10 | 897 | 68 µs | [link](https://i.imgur.com/CFkMYjt.png) | AMD-specific tool was used, results are here though.
 i9-13900k | ASUS Strix Z790 D4 | ? | 0 | 5 | 75 µs | [link](https://i.imgur.com/IxKUi76.jpeg) | /
