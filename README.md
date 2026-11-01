@@ -20,6 +20,7 @@ R5 5600H | Acer AN515-45 | v1.14 | 10 | 0 | 22 µs | [link](https://i.imgur.com/
 i7-13900k | GB Z790 Tachyon | ? | 10 | 0 | 45 µs | [link](https://i.imgur.com/TTTtY8c.jpeg) |  z
 R7 9850X3D | ASUS X870 Apex | ? | 10 | 897 | 68 µs | [link](https://i.imgur.com/CFkMYjt.png) | AMD-specific tool was used, results are here though.
 i9-13900k | ASUS Strix Z790 D4 | ? | 0 | 5 | 75 µs | [link](https://i.imgur.com/IxKUi76.jpeg) | /
+i7-8066k | EVGA Z390 DARK | ? | 0 | 5 | 98 µs | [link](https://i.imgur.com/wu7YqqQ.jpeg) | /
 Xeon 2630V4 | Gigabyte X99-UD3 | F22 | 10 | 236 | 147 µs | / | Consistent latency value.
 i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | 222–239 µs | [img](https://i.imgur.com/jv6DzmY.png) | Small variance
 i7-3770k | Gigabyte Z77X-D3H | F14-F18 | 10 | 930 | 174–1400 µs | [link](https://i.imgur.com/vM1d5zr.jpeg) | The board isn't able to stabilize the results, keeps oscillating. Min & max were noted
