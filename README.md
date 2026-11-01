@@ -19,7 +19,7 @@ Thinkpad T430 | / | latest | 10 | 0 | 120 ns | [link](https://i.imgur.com/YXRjag
 R5 5600H | Acer AN515-45 | v1.14 | 10 | 0 | 22 µs | [link](https://i.imgur.com/ppzryzV.jpeg) |  z
 i7-13900k | GB Z790 Tachyon | ? | 10 | 0 | 45 µs | [link](https://i.imgur.com/TTTtY8c.jpeg) |  z
 R7 9850X3D | ASUS X870 Apex | ? | 10 | 897 | 68 µs | [link](https://i.imgur.com/CFkMYjt.png) | AMD-specific tool was used, results are here though.
-i9-13900k | ASUS Strix Z790 D4 | ? | 4 | 5 | 75 µs | [link](https://i.imgur.com/IxKUi76.jpeg) | /
+i9-13900k | ASUS Strix Z790 D4 | ? | 4 | 0 | 75 µs | [link](https://i.imgur.com/IxKUi76.jpeg) | /
 i7-8066k | EVGA Z390 DARK | e399_093 | 5 | 891 | 98 µs | [link](https://i.imgur.com/wu7YqqQ.jpeg) | /
 Xeon 2630V4 | Gigabyte X99-UD3 | F22 | 10 | 236 | 147 µs | / | Consistent latency value.
 i7-8700k | ASUS Maximus X Apex (Z370) | 2.701 | 10 | 909 | 222–239 µs | [img](https://i.imgur.com/jv6DzmY.png) | Small variance
